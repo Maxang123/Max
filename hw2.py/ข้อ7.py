@@ -1,7 +1,5 @@
 import time
 t_start = time.time()
-#x=int(input())
-#y=int(input())
 empty= []
 def krn(z,p):
     for fool_number in range(137690,1,-1):
@@ -12,3 +10,6 @@ krn(137690,298)
 t_end = time.time()
 duration = t_end - t_start
 print(duration)
+
+
+
