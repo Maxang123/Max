@@ -9,3 +9,7 @@ for i in range(1000):
     result += i**2
 print(result)
 import os
+
+
+
+
